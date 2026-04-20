@@ -1,4 +1,4 @@
-## Hi, I'm [Raj Soni]
+## Hi, I'm Raj Soni
 
 I'm a full stack developer passionate about learning and growing my skills. I love building web applications and exploring new technologies.
 
